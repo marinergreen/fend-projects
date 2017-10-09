@@ -1,0 +1,33 @@
+.card {
+    display: inline-block;
+    border: thin solid lightgray;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 2px #eeeeee
+}
+
+.picture {
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.information {
+    font-size: 0.75em;
+    box-sizing: border-box;
+    width: 300px;
+    padding: 0 10px;
+    border: thin solid lightgray;
+}
+
+.fact {
+    font-style: italic;
+}
+
+.list {
+    padding-left: 0;
+    list-style: none outside;
+}
+
+.label {
+    font-weight: bold;
+}
